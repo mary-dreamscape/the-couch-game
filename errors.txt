@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 359: expected menuitem
+    xpos 0.60 ypos 1.10 xanchor 0.5 yanchor 1.0 zoom 3.0
+    ^
+
+Ren'Py Version: Ren'Py 7.4.10.2178
+Sun Nov  7 14:55:17 2021
